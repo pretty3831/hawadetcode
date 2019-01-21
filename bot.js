@@ -32,7 +32,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : pretty ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(`الشيخ بريتي`,"http://twitch.tv/S-F")
+client.user.setGame(`one is here ..`,"http://twitch.tv/S-F")
 client.user.setStatus("dnd")
 });
 
