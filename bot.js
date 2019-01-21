@@ -37,4 +37,4 @@ client.user.setStatus("dnd")
 });
 
 
-client.login("NTI2OTEwNDU0ODg3NjEyNDE3.DwMDdg.ftNN09cNGluKW9g0VP7yJNxbtQo")
+client.login("NTI2OTI1NTMyNzE0MjM3OTcy.DyerBg.bSRNP3FYkaU5XVq3jkuA0Atp_7g")
